@@ -1,0 +1,5 @@
+interface:
+  display_name: "AI 开工参谋"
+  short_description: "项目启动前的模型与工具选型顾问，核验价格来源并给出协作与验收建议"
+  default_prompt: "用 $ai-kickoff-advisor 根据我的项目目标和限制，推荐合适的模型与执行工具，核验型号及价格，并给出开工与验收建议。"
+
